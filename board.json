@@ -10,7 +10,7 @@
           "architecture": "arm",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/KS-SLS/custom/blob/main/demo.zip",
+          "url": "https://github.com/KS-SLS/custom/raw/main/demo.zip",
           "archiveFileName": "demo.zip",
           "checksum": "SHA-256:84e34517a992b0ab08a074ee7470d5956a591793048399d69c83c565210ca6f6",
           "size": "103530",
