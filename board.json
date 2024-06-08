@@ -12,8 +12,8 @@
           "category": "Contributed",
           "url": "https://github.com/KS-SLS/custom/raw/main/pt32.zip",
           "archiveFileName": "pt32.zip",
-          "checksum": "SHA-256:4506ad6b8da848874cb5b199151f1b0da115cfc11fbca83eee10b9957d633a39",
-          "size": "26205328",
+          "checksum": "SHA-256:49896fe839138b16d0096631f9bb7b102b6045b78fc7a863fde20ad05de9ed90",
+          "size": "26206126",
           "boards": [
             {
               "name": "pt32  Board"
