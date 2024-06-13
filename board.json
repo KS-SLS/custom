@@ -21,9 +21,26 @@
           ],
           "help": {},
           "toolsDependencies": [
+            {
+              "packager": "pt32",
+              "name": "arm-none-eabi-gcc",
+              "version": "10.3-2021.10"
+            }
+          ]
+        }
       ],
       "tools": [
-          
+        {
+          "name": "arm-none-eabi-gcc",
+          "version": "10.3-2021.10",
+          "systems": [
+            {
+              "host": "all",
+              "url": "https://github.com/KS-SLS/custom/releases/download/v10.3-pt32/arm.tool.chain.zip",
+              "archiveFileName": "arm.tool.chain.zip",
+              "checksum": "SHA-256:db9f59ad48b48bd5d7b27356ab3b8f91659afab483aac45d7e6c93516306f7b7",
+              "size": "206456147"
+            }
           ]
         }
       ]
