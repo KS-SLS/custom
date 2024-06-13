@@ -38,10 +38,10 @@
           "systems": [
             {
               "host": "i686-w64-mingw32",
-              "url": "https://github.com/KS-SLS/custom/archive/refs/tags/v.10.3.tar.gz",
-              "archiveFileName": "v.10.3.tar.gz",
-              "size": "117987",
-              "checksum": "SHA-256:93665810bdd47fec38d0b5def007c76d4c995ba01ac40a62887e2ed06037b12d"
+              "url": "https://github.com/KS-SLS/custom/releases/download/v.10.3/gcc-arm-none-eabi-10.3-2021.10-win32.1.zip",
+              "archiveFileName": "gcc-arm-none-eabi-10.3-2021.10-win32.1.zip",
+              "size": "200578763",
+              "checksum": "SHA-256:d287439b3090843f3f4e29c7c41f81d958a5323aecefcf705c203bfd8ae3f2e7"
             }
           ]
         }
