@@ -36,12 +36,12 @@
           "name": "CMSIS",
           "version": "1.0.0",
           "systems": [
-            {
-              "host": "i686-w64-mingw32",
-              "url": "https://github.com/KS-SLS/custom/releases/download/v.10.3/gcc-arm-none-eabi-10.3-2021.10-win32.1.zip",
-              "archiveFileName": "gcc-arm-none-eabi-10.3-2021.10-win32.1.zip",
-              "size": "200578763",
-              "checksum": "SHA-256:d287439b3090843f3f4e29c7c41f81d958a5323aecefcf705c203bfd8ae3f2e7"
+         {
+              "host": "i686-mingw32",
+              "url": "https://github.com/stm32duino/ArduinoModule-CMSIS/releases/download/5.9.0/CMSIS-5.9.0.tar.bz2",
+              "archiveFileName": "CMSIS-5.9.0.tar.bz2",
+              "size": "2365397",
+              "checksum": "SHA-256:693aabf1a793512316bfc9809203a5cfe304931e981ba708b51419939c3cefcd"
             }
           ]
         }
