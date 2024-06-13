@@ -2,8 +2,8 @@
   "packages": [
     {
       "name": "pt32",
-      "maintainer": "by sls",      
-       "websiteURL": "https://example.com",
+      "maintainer": "by sls",
+      "websiteURL": "https://example.com",
       "platforms": [
         {
           "name": "pt32 board",
@@ -16,23 +16,23 @@
           "size": "124969",
           "boards": [
             {
-              "name": "pt32  Board"
+              "name": "pt32 Board"
             }
-          ]
+          ],
           "help": {},
           "toolsDependencies": [
             {
-              "packager": "PT32",
+              "packager": "pt32",
               "name": "CMSIS",
               "version": "1.0.0"
             }
-            ],
+          ],
           "discoveryDependencies": [],
           "monitorDependencies": []
         }
-      ]
+      ],
       "tools": [
-     {
+        {
           "name": "CMSIS",
           "version": "1.0.0",
           "systems": [
@@ -44,6 +44,8 @@
               "checksum": "SHA-256:93665810bdd47fec38d0b5def007c76d4c995ba01ac40a62887e2ed06037b12d"
             }
           ]
+        }
+      ]
     }
   ]
 }
