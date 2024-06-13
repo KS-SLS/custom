@@ -23,8 +23,8 @@
           "toolsDependencies": [
             {
               "packager": "PT32",
-              "name": "xpack-arm-none-eabi-gcc",
-              "version": "12.2.1-1.2"
+              "name": "CMSIS",
+              "version": "1.0.0"
             }
             ],
           "discoveryDependencies": [],
@@ -33,15 +33,15 @@
       ]
       "tools": [
      {
-          "name": "xpack-arm-none-eabi-gcc",
-          "version": "9.3.1-1.3",
+          "name": "CMSIS",
+          "version": "1.0.0",
           "systems": [
             {
               "host": "i686-w64-mingw32",
-              "url": "https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/releases/download/v9.3.1-1.3/xpack-arm-none-eabi-gcc-9.3.1-1.3-linux-arm.tar.gz",
-              "archiveFileName": "xpack-arm-none-eabi-gcc-9.3.1-1.3-linux-arm.tar.gz",
-              "size": "364076945",
-              "checksum": "SHA-256:51d933f00578aa28016c5e3c84f94403274ea7915539f8e56c13e2196437d18f"
+              "url": "https://github.com/KS-SLS/custom/archive/refs/tags/v.10.3.tar.gz",
+              "archiveFileName": "v.10.3.tar.gz",
+              "size": "117987",
+              "checksum": "SHA-256:93665810bdd47fec38d0b5def007c76d4c995ba01ac40a62887e2ed06037b12d"
             }
           ]
     }
