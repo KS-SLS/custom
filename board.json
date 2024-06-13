@@ -21,28 +21,9 @@
           ],
           "help": {},
           "toolsDependencies": [
-            {
-              "packager": "pt32",
-              "name": "CMSIS",
-              "version": "1.0.0"
-            }
-          ],
-          "discoveryDependencies": [],
-          "monitorDependencies": []
-        }
       ],
       "tools": [
-        {
-          "name": "CMSIS",
-          "version": "1.0.0",
-          "systems": [
-         {
-              "host": "i686-mingw32",
-              "url": "https://github.com/stm32duino/ArduinoModule-CMSIS/releases/download/5.9.0/CMSIS-5.9.0.tar.bz2",
-              "archiveFileName": "CMSIS-5.9.0.tar.bz2",
-              "size": "2365397",
-              "checksum": "SHA-256:693aabf1a793512316bfc9809203a5cfe304931e981ba708b51419939c3cefcd"
-            }
+          
           ]
         }
       ]
