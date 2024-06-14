@@ -10,8 +10,8 @@
           "architecture": "arm",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/KS-SLS/custom/raw/main/pt32.zip",
-          "archiveFileName": "pt32.zip",
+          "url": "https://github.com/KS-SLS/custom/raw/main/pt32x031.zip",
+          "archiveFileName": "pt32x031.zip",
           "checksum": "SHA-256:5c8549fd8463f209bd5918dfe06077ba921897f9b897048eba87b1b61b697b9b",
           "size": "167519",
           "boards": [
